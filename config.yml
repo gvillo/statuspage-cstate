@@ -41,10 +41,10 @@ params:
       category: Reservas
     - name: Checkout
       category: Reservas
+    - category: Panel
+      name: Turnos
     - name: Disponibilidad
       category: Panel
-    - category: Panel
-      name: Reservas
     - name: Historia Clinica
       category: Panel
     - name: Integraciones
