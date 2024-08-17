@@ -1,15 +1,14 @@
 ---
-title: US East Connection Issues
+section: issue
+title: Reservas caido
 date: 2018-04-25 04:13:00
 resolved: true
 resolvedWhen: 2018-04-25 04:13:59
-# Possible severity levels: down, disrupted, notice
-severity: down
 affected:
   - API
   - Media Proxy
   - Gateway
-section: issue
+severity: down
 ---
 
 *Resolved* -
