@@ -50,7 +50,7 @@ params:
     - name: Integraciones
       category: Panel
   dateFormat: January 2, 2006 at 3:04 PM UTC
-  brand: "#0a0c0f"
+  brand: "#6200c4"
   enableLastMod: true
   headerTextColor: white
   logo: /img/logo-zala.png
@@ -71,4 +71,4 @@ params:
   description: Monitoreamos continuamente el estado de nuestros servicios y, si
     hay alguna interrupción, se publicará una nota acá.
   enableCustomHTML: true
-  useLargeHeaderDesign: true
+  useLargeHeaderDesign: false
